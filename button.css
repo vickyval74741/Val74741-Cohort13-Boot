@@ -1,0 +1,26 @@
+body{
+
+    background-color: aliceblue;
+
+}
+
+.val{
+
+    border-radius: 50%;
+}
+.vic{
+
+   margin-top: 40px; 
+   margin-bottom: 20px;
+   margin-left: 20px;
+}
+
+.vik{
+    color: dodgerblue;
+    margin-top: 10px;
+    margin-left: 15px;
+}
+.container{
+
+    margin-left: 70px;
+}
